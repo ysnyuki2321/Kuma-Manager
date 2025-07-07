@@ -1,6 +1,6 @@
 # 📦 プロジェクトについて (About This Project)
 
-[![Node]([https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs)(https://nodejs.org/)
+[![Node](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
 
 このプロジェクトは ysnyuki2321 によってクラックされたものであり、  
 オリジナルは [https://plexdevelopment.net](https://plexdevelopment.net) のものです。  
