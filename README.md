@@ -3,6 +3,8 @@
 # 📦 プロジェクトについて (About This Project)
 
 * [![Node][Node.js]][Node-url]
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/
 
 このプロジェクトは ysnyuki2321 によってクラックされたものであり、  
 オリジナルは [https://plexdevelopment.net](https://plexdevelopment.net) のものです。  
