@@ -1,6 +1,3 @@
-Dưới đây là file README theo yêu cầu của bạn, có 2 phần tiếng Nhật và tiếng Anh, có độ dài đủ, chuyên nghiệp, kèm emoji và theo style bạn muốn. Mình để sẵn phần badge tag ngôn ngữ Node.js với format bạn nói, bạn chỉnh URL badge nếu muốn nhé.
-
-
 ---
 
 # 📦 プロジェクトについて (About This Project)
