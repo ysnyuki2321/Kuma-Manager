@@ -15,28 +15,26 @@ Dưới đây là file README theo yêu cầu của bạn, có 2 phần tiếng 
 
 ## 🚀 インストール手順 (Installation Instructions)
 
-1. リポジトリをクローンまたはダウンロードしてください。  
+1. リポジトリをクローンまたはダウンロードしてください。
+ 
 2. 依存関係をインストールします:
 
 ```bash
 npm install
-
+```
 3. config.yml ファイルを編集して環境設定を行ってください。
-
 
 4. サーバーを起動します:
 
-
-
+```
 node .
-
+```
 
 ---
 
 🖼️ デモ (Demo)
 
 https://i.imgur.com/9Rs9pXT.png
-
 
 ---
 
@@ -62,26 +60,24 @@ By using this project, you accept this condition.
 
 2. Install dependencies by running:
 
-
-
+```
 npm i
+```
 
 3. Configure your environment by editing the config.yml file.
 
 
 4. Start the server with:
 
-
-
+```
 node .
-
+```
 
 ---
 
 🖼️ Demo
 
 https://i.imgur.com/9Rs9pXT.png
-
 
 ---
 
