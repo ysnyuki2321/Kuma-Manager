@@ -39,7 +39,7 @@ node .
 
 ---
 
-⚠️ Important Notice
+## ⚠️ Important Notice
 
 This project is a cracked version by ysnyuki2321,
 the original belongs to https://plexdevelopment.net.
@@ -50,7 +50,7 @@ By using this project, you accept this condition.
 
 ---
 
-🚀 Installation Guide
+## 🚀 Installation Guide
 
 1. Clone or download this repository.
 
