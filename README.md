@@ -2,6 +2,8 @@
 
 # 📦 プロジェクトについて (About This Project)
 
+* [![Node][Node.js]][Node-url]
+
 このプロジェクトは ysnyuki2321 によってクラックされたものであり、  
 オリジナルは [https://plexdevelopment.net](https://plexdevelopment.net) のものです。  
 
