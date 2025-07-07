@@ -31,7 +31,7 @@ node .
 
 🖼️ デモ (Demo)
 
-https://i.imgur.com/9Rs9pXT.png
+![デモ](https://i.imgur.com/9Rs9pXT.png)
 
 ---
 
@@ -74,7 +74,7 @@ node .
 
 🖼️ Demo
 
-https://i.imgur.com/9Rs9pXT.png
+![Demo](https://i.imgur.com/9Rs9pXT.png)
 
 ---
 
